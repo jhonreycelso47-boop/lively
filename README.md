@@ -1,3 +1,4 @@
+ANIME
 
 <p align="center">
   <img alt="Files Logo" src="resources/figma_promo_16x9.jpg" width="450" />
